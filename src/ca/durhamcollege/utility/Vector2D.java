@@ -1,4 +1,4 @@
-package ca.durhamcollege;
+package ca.durhamcollege.utility;
 
 public class Vector2D
 {

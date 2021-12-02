@@ -1,4 +1,7 @@
-package ca.durhamcollege;
+package ca.durhamcollege.core;
+
+import ca.durhamcollege.utility.*;
+
 
 import java.util.Scanner;
 import java.util.Vector;
